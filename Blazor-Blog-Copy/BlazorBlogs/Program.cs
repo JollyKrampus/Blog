@@ -3,7 +3,6 @@ using Microsoft.Extensions.Hosting;
 
 namespace BlazorBlogs
 {
-    //todo: link somewhere my GitHub, facebook, twitter, youtube, steam and xbox profiles
     public class Program
     {
         public static void Main(string[] args)
