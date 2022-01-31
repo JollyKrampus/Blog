@@ -10,7 +10,7 @@ h1:focus {
 }
 
 a, .btn-link {
-    color: #0071c1;
+    color: navy;
 }
 
 .btn-primary {
@@ -34,6 +34,15 @@ a, .btn-link {
 .validation-message {
     color: red;
 }
+
+.list-group-item {
+    background-color: orange !important;
+}
+
+.card {
+    background-color: orange !important;
+}
+
 
 #blazor-error-ui {
     background: lightyellow;
